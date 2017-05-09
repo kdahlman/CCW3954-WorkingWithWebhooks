@@ -1,5 +1,6 @@
 #Simpsons Quotes  
 Bake em away toys
+Cowabunga!
 
 # Generated files
 This repository contains generated files and a checksum.
