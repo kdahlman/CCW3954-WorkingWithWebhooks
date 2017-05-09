@@ -2,6 +2,7 @@
 Bake em away toys.
 Cowabunga!
 You don't make friend with Salad.
+My Balogne has a first name, it's H O M E R.  My Balogne has a second name it's... H O M E R. 
 
 # Generated files
 This repository contains generated files and a checksum.
