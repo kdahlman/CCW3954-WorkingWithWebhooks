@@ -1,6 +1,7 @@
 #Simpsons Quotes  
-Bake em away toys
+Bake em away toys.
 Cowabunga!
+You don't make friend with Salad.
 
 # Generated files
 This repository contains generated files and a checksum.
