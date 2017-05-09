@@ -3,6 +3,7 @@ Bake em away toys.
 Cowabunga!
 You don't make friend with Salad.
 My Balogne has a first name, it's H O M E R.  My Balogne has a second name it's... H O M E R. 
+Do it, or they might send us to that dreaded planet of the apes. Wait a minute... statue of liberty, you blew it up! Damn you! Damn you all to hell!
 
 # Generated files
 This repository contains generated files and a checksum.
